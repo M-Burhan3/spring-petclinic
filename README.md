@@ -1,10 +1,10 @@
 # Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)[![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/gradle-build.yml)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/spring-projects/spring-petclinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=7517918)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/M-Burhan3/spring-petclinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=7517918)
 
 ## Understanding the Spring Petclinic application with a few diagrams
 
-[See the presentation here](https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application)
+[See the presentation here](https://speakerdeck.com/M-Burhan3/spring-petclinic-sample-application)
 
 ## Run Petclinic locally
 
@@ -39,7 +39,7 @@ There is no `Dockerfile` in this project. You can build a container image (if yo
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
 
-Our issue tracker is available [here](https://github.com/spring-projects/spring-petclinic/issues).
+Our issue tracker is available [here](https://github.com/M-Burhan3/spring-petclinic/issues).
 
 ## Database configuration
 
